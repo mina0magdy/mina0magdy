@@ -1,7 +1,7 @@
 
 
 <h1  align="center">
-    Hey there, I'm a Mina Magdy!
+    Hey there, I'm Mina Magdy!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
