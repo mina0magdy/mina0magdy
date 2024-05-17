@@ -23,9 +23,9 @@
 --- 
 
 ### :man_technologist: About Me :
-I am a 3rd year CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a 5th year CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m working as a Software Engineer intern and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer intern and contributing to backend for building web applications.
 
 - :seedling: currently learning MERN stack for web development.
 
